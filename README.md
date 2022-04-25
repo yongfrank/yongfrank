@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yongfrank
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Swift & SwitUI
-- 💞️ I’m looking to collaborate on WWDC & CCCC
+- 💞️ I’m working on AR Workshop & CCCC
 - 📫 How to reach me [twitter](https://twitter.com/cyongfrank)
 
 <!---
