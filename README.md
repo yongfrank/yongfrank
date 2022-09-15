@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yongfrank
+- 👋 Hi, I’m Chu Yong @yongfrank 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Swift & SwitUI
 - 💞️ I’m working on AR Workshop & CCCC
