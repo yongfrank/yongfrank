@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chu Yong @yongfrank 
+- 👋 Hi, I’m Frank @yongfrank 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Swift & SwitUI
-- 💞️ I’m working on AR Workshop & CCCC
+- 🌱 I’m currently learning Swift / C / C++ Programming
+- 💞️ I’m working on TOEFL
 - 📫 How to reach me [twitter](https://twitter.com/cyongfrank)
 
 <!---
