@@ -25,9 +25,6 @@
   <img align="right"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Apollonian&layout=compact" alt="Apollo's wakatime stats" />
 </a> -->
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yongfrank&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongfrank&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-</a>
 <a href="https://github-readme-stats.vercel.app/api?username=yongfrank&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
 <img align="right" height="190" src="https://github-readme-stats.vercel.app/api?username=yongfrank&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
 </a>
@@ -38,7 +35,9 @@
 <a href="https://www.credly.com/badges/e22ea06b-060b-4c22-b980-34d5d93cbda7/public_url">
     <img width="188" height="188" src="https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="Apple-Swift-Associate" />
 </a>
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yongfrank&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongfrank&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
+</a>
 
 <!-- <tr>
 <td colspan="4">
