@@ -2,7 +2,7 @@
  * @Author: Frank Chu
  * @Date: 2022-12-09 19:41:16
  * @LastEditors: Frank Chu
- * @LastEditTime: 2023-03-03 15:17:40
+ * @LastEditTime: 2023-03-14 08:39:38
  * @FilePath: /yongfrank/README.md
  * @Description: 
  * 
@@ -13,6 +13,10 @@
 
 # Welcome 😀
 
+[![Follow on twitter](https://img.shields.io/twitter/follow/cyongfrank)](https://twitter.com/intent/follow?screen_name=cyongfrank)
+[![About Frank](https://img.shields.io/badge/Find_More_Project-yongfrank.github.io/about-9ef)](https://yongfrank.github.io/about)
+[![Blog Page](https://img.shields.io/badge/Blog_Page-yongfrank.github.io-success)](https://yongfrank.github.io/)
+
 - 👋 Hi, I’m Frank @yongfrank
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Swift / C / C++ / Python /  Programming
@@ -21,14 +25,21 @@
 
 ## Details
 
-<a href="https://www.credly.com/badges/e22ea06b-060b-4c22-b980-34d5d93cbda7/public_url">
+<!-- <a href="https://www.credly.com/badges/e22ea06b-060b-4c22-b980-34d5d93cbda7/public_url">
     <img width="188" height="188" align="left" src="https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="Apple-Swift-Associate" />
-</a>
+</a> -->
 
-<a href="https://github-readme-stats.vercel.app/api?username=yongfrank&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=yongfrank&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=yongfrank&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
-</a>
+</a> -->
 
+|[![Apple-Swift-Associate](https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png)][Credly Link] | [![GitHub Status](https://github-readme-stats.vercel.app/api?username=yongfrank&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true)](https://github-readme-stats.vercel.app/api?username=yongfrank&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true)|
+|-|-|
+| [Oh My Flag](https://github.com/yongfrank/OhMyFlag-WWDC22) | [![Banner for App Store](https://github.com/yongfrank/OhMyFlag-WWDC22/blob/main/resources/banner.jpeg?raw=true)](https://apps.apple.com/app/oh-my-flag/id6446227923) [![Download on the App Store](https://yongfrank.github.io/OhMyFlag-WWDC22/resources/download-on-the-app-store.svg)](https://apps.apple.com/app/oh-my-flag/id6446227923) |
+| [Smart Speaker](https://github.com/yongfrank/SmartSpeaker) | ![Smart Speaker](https://github.com/yongfrank/SmartSpeaker/raw/master/resources/screenshot.png?raw=true)|
+
+[Oh My Flag Repo Link]: https://github.com/yongfrank/OhMyFlag-WWDC22
+[Credly Link]: https://www.credly.com/badges/e22ea06b-060b-4c22-b980-34d5d93cbda7/public_url
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Apollonian&layout=compact" alt="Apollo's wakatime stats" />
 </a> -->
