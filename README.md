@@ -2,7 +2,7 @@
  * @Author: Frank Chu
  * @Date: 2022-12-09 19:41:16
  * @LastEditors: Frank Chu
- * @LastEditTime: 2023-03-14 08:39:38
+ * @LastEditTime: 2023-03-24 00:33:10
  * @FilePath: /yongfrank/README.md
  * @Description: 
  * 
@@ -17,11 +17,10 @@
 [![About Frank](https://img.shields.io/badge/Find_More_Project-yongfrank.github.io/about-9ef)](https://yongfrank.github.io/about)
 [![Blog Page](https://img.shields.io/badge/Blog_Page-yongfrank.github.io-success)](https://yongfrank.github.io/)
 
-- 👋 Hi, I’m Frank @yongfrank
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Swift / C / C++ / Python /  Programming
-- 💞️ I’m working on TOEFL
-- 📫 How to reach me [twitter](https://twitter.com/cyongfrank)
+- 👋 Hello, I'm Frank, also known as [@yongfrank](https://github.com/) on GitHub.
+- 👀 I'm passionate about programming.
+- 🌱 Currently, I'm learning Swift, C/C++, Python, HTML/CSS/JavaScript.
+- 📫 You can reach me on [Twitter](https://twitter.com/cyongfrank).
 
 ## Details
 
