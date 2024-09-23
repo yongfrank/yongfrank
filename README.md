@@ -25,11 +25,6 @@
 - 🌱 Currently, I'm learning Swift, C/C++, Python, HTML/CSS/JavaScript.
 - 📫 You can reach me on [Twitter](https://twitter.com/cyongfrank).
 
-<a href="https://twitter.com/intent/follow?screen_name=cyongfrank"><img src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a>
-&nbsp;
-<a href="https://apps.apple.com/us/developer/勇-褚/id1633441406"><img src="https://img.icons8.com/ios-filled/128/555555/apple-app-store--v2.svg" width="34"/></a>
-<!-- <a href="https://www.linkedin.com/in/atrinh0/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a> -->
-
 ## Personal Apps
 
 <div style="
